@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dcb176ff61e27f08b7ef3f7abe9e62a7",
+    "revision": "a1b9c2dad56425d6587df041a0e60aa2",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "56a17f027c84932a497c",
-    "url": "/static/css/main.fc5d9386.chunk.css"
+    "revision": "739fc2fedf96f40dcb93",
+    "url": "/static/css/main.58256005.chunk.css"
   },
   {
     "revision": "e4aa5fa05cd75b7637b3",
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.22715ad6.chunk.js"
   },
   {
-    "revision": "56a17f027c84932a497c",
-    "url": "/static/js/main.552c43c3.chunk.js"
+    "revision": "739fc2fedf96f40dcb93",
+    "url": "/static/js/main.2578349d.chunk.js"
   },
   {
     "revision": "53b010a00d6e8792215e",
     "url": "/static/js/runtime-main.33e8bd0a.js"
   },
   {
-    "revision": "21f233e19402cc4a66866a7f31191f0d",
-    "url": "/static/media/Agustina.21f233e1.woff"
+    "revision": "a3752c4bf72688b3db38d0911cf75f61",
+    "url": "/static/media/Agustina.a3752c4b.woff"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -64,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
+    "revision": "c6aec63d8daaf00d976996e334f1921c",
+    "url": "/static/media/digipenLogo.c6aec63d.png"
+  },
+  {
     "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
     "url": "/static/media/facebookLogo.8ddf76a1.png"
   },
@@ -72,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
+    "revision": "d829457e891b71d8cff5f54f50fab6cb",
+    "url": "/static/media/kumohLogo.d829457e.jpg"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
@@ -98,10 +102,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
